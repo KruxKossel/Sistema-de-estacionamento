@@ -1,0 +1,15 @@
+C:\C# projetos\Sistema de estacionamento\bin\Debug\net8.0\Sistema de estacionamento.exe
+C:\C# projetos\Sistema de estacionamento\bin\Debug\net8.0\Sistema de estacionamento.deps.json
+C:\C# projetos\Sistema de estacionamento\bin\Debug\net8.0\Sistema de estacionamento.runtimeconfig.json
+C:\C# projetos\Sistema de estacionamento\bin\Debug\net8.0\Sistema de estacionamento.dll
+C:\C# projetos\Sistema de estacionamento\bin\Debug\net8.0\Sistema de estacionamento.pdb
+C:\C# projetos\Sistema de estacionamento\obj\Debug\net8.0\Sistema de estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# projetos\Sistema de estacionamento\obj\Debug\net8.0\Sistema de estacionamento.AssemblyInfoInputs.cache
+C:\C# projetos\Sistema de estacionamento\obj\Debug\net8.0\Sistema de estacionamento.AssemblyInfo.cs
+C:\C# projetos\Sistema de estacionamento\obj\Debug\net8.0\Sistema de estacionamento.csproj.CoreCompileInputs.cache
+C:\C# projetos\Sistema de estacionamento\obj\Debug\net8.0\Sistema de estacionamento.sourcelink.json
+C:\C# projetos\Sistema de estacionamento\obj\Debug\net8.0\Sistema de estacionamento.dll
+C:\C# projetos\Sistema de estacionamento\obj\Debug\net8.0\refint\Sistema de estacionamento.dll
+C:\C# projetos\Sistema de estacionamento\obj\Debug\net8.0\Sistema de estacionamento.pdb
+C:\C# projetos\Sistema de estacionamento\obj\Debug\net8.0\Sistema de estacionamento.genruntimeconfig.cache
+C:\C# projetos\Sistema de estacionamento\obj\Debug\net8.0\ref\Sistema de estacionamento.dll
